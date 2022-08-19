@@ -1,0 +1,10 @@
+//E-MAIL.JS EXPORT CONST
+export const SERVICE_KEY="YOUR_SERVICE_KEY"
+export const TEMPLATE_KEY="YOUR_TEMPLATE_KEY"
+export const PUBLIC_KEY="YOUR_PUBLIC_KEY"
+
+export default {
+    SERVICE_KEY,
+    TEMPLATE_KEY,
+    PUBLIC_KEY,
+}
